@@ -1,0 +1,1 @@
+export const IphoneSales = [10, 20, 55, 32, 80, 90, 95, 80, 50]
